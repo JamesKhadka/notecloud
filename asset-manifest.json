@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/notecloud/static/css/main.a80084f0.css",
+    "main.js": "/notecloud/static/js/main.3fc0f90c.js",
+    "index.html": "/notecloud/index.html",
+    "main.a80084f0.css.map": "/notecloud/static/css/main.a80084f0.css.map",
+    "main.3fc0f90c.js.map": "/notecloud/static/js/main.3fc0f90c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a80084f0.css",
+    "static/js/main.3fc0f90c.js"
+  ]
+}
